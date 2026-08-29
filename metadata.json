@@ -1,0 +1,6 @@
+{
+  "name": "Chubby Chat",
+  "description": "A modern, vibrant social-chat and messaging web application featuring social feeds, stories, reels, direct & group messaging, voice/video calls, and AI-powered creative assistants.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
